@@ -1,0 +1,47 @@
+name: pocketbase_chat
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl: ^0.18.1
+  get: ^4.6.5
+  get_storage: ^2.1.1
+  chatview: ^1.2.1
+  flutter_login: ^4.1.1
+  path_provider: ^2.0.14
+  pocketbase: ^0.10.0
+
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_test: 
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+  web:
+    generate: true
+    image_path: "assets/icon.png"
+  windows:
+    generate: true
+    image_path: "assets/icon.png"
+  macos:
+    generate: true
+    image_path: "assets/icon.png"
+
+get_cli: 
+  sub_folder: false
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - assets/
