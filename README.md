@@ -25,12 +25,18 @@ That's it, run this project, create rooms and chat with friends
 
 ## Screenshots
 
-<img src="[https://your-image-url.type](https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/437a5406-e990-4dd7-ad65-da08b98dadbf)" width="100" height="100">
+<img src="https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/98b693f3-8154-44ed-ad52-c5472b5c48fa" width="400"></b>
 
-![](https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/012be13e-c4f0-471c-a1af-b19b18414a2e)
 
-![](https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/33fa3265-a3de-4332-ade6-dfa94dbc59b2)
+<img src="https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/2740fc9f-066e-48fd-a4eb-739c0f36823b" height="300">
 
-![](https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/8d300b92-3245-434d-b9d9-de5206be2534)
 
-![](https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/2740fc9f-066e-48fd-a4eb-739c0f36823b)
+<img src="https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/8d300b92-3245-434d-b9d9-de5206be2534" height="300">
+
+
+<img src="https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/33fa3265-a3de-4332-ade6-dfa94dbc59b2" height="300">
+
+
+<img src="https://github.com/rohitsangwan01/flutter_pocketbase_chat/assets/59526499/012be13e-c4f0-471c-a1af-b19b18414a2e" height="300">
+
+
